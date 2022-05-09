@@ -1,0 +1,9 @@
+..\..\output\windows.o: ..\..\User\oled\GUI_DRV\src\windows.c
+..\..\output\windows.o: ..\..\User\oled\GUI_DRV\interface\windows.h
+..\..\output\windows.o: ..\..\User\oled\GUI_DRV\interface\gui_config.h
+..\..\output\windows.o: D:\software\Keil515\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\windows.o: D:\software\Keil515\ARM\ARMCC\Bin\..\include\stdbool.h
+..\..\output\windows.o: ..\..\User\oled\GUI_DRV\interface\gui_basic.h
+..\..\output\windows.o: ..\..\User\oled\GUI_DRV\interface\lcmdrv.h
+..\..\output\windows.o: D:\software\Keil515\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\windows.o: ..\..\User\oled\GUI_DRV\interface\text.h
